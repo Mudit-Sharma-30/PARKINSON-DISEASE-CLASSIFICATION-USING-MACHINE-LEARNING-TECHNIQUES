@@ -13,5 +13,4 @@ Parkinson's symptoms may include:
 * Speech changes
 * Writing changes
 
-
-* ![github](https://user-images.githubusercontent.com/99650506/202848383-2f8ffebd-4f7d-41ea-a25c-847d70b3a16d.png)
+![github](https://user-images.githubusercontent.com/99650506/202848383-2f8ffebd-4f7d-41ea-a25c-847d70b3a16d.png)
